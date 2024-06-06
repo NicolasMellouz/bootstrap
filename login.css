@@ -1,0 +1,14 @@
+body{
+    background-color: paleturquoise;
+}
+
+.title{
+    text-align: center;
+}
+
+.form-control{
+    width: 30% !important;
+    justify-content: center;
+    align-items: center !important;
+    margin: auto;
+}
